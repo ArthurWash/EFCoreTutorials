@@ -11,7 +11,7 @@ namespace EFCoreTutorials
 
                 var std = new Student()
                 {
-                    Name = "Bill"
+                    Name = "Taylor"
                 };
 
                 context.Students.Add(std);
